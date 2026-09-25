@@ -1,0 +1,8 @@
+[
+  {"name":"Kanyangi Water Pipeline Extension","category":"Water & Sanitation","ward":"Kanyangi","status":"Ongoing","progress":65,"description":"Extending the piped water network to serve five villages currently relying on seasonal water pans."},
+  {"name":"Kisasi Market Sheds Upgrade","category":"Trade & Markets","ward":"Kisasi","status":"Completed","progress":100,"description":"New roofed market sheds, drainage and a loading bay for farmers and traders at Kisasi market."},
+  {"name":"Mbitini Health Centre Maternity Wing","category":"Health","ward":"Mbitini","status":"Ongoing","progress":40,"description":"Construction of a maternity wing to reduce referrals to Kitui County Referral Hospital."},
+  {"name":"Kwa Vonza/Yatta Feeder Roads Grading","category":"Roads & Infrastructure","ward":"Kwa Vonza/Yatta","status":"Planned","progress":0,"description":"Grading and spot-gravelling of key feeder roads to improve access during the rainy season."},
+  {"name":"Kanyangi Primary School Classrooms","category":"Education","ward":"Kanyangi","status":"Delayed","progress":25,"description":"Two additional classrooms and a staff room; works paused pending release of the next funding tranche."},
+  {"name":"Mbitini Sand Dam Construction","category":"Water & Sanitation","ward":"Mbitini","status":"Ongoing","progress":80,"description":"A community sand dam to improve water retention and access for households and livestock."}
+]
